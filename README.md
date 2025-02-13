@@ -89,3 +89,9 @@
 
 ---  
 💡 **Always open to collaborations & innovative projects! Feel free to reach out!**
+
+---
+
+## Profile Visitors
+
+![Visitor Count](https://profile-counter.glitch.me/SidTheKid-dotcom/count.svg)
