@@ -28,7 +28,7 @@
 🔗 [Live Demo](https://iitg-case-com.streamlit.app/)  
 
 
-### 🔥 [Pokédex WebApp](https://github.com/SidTheKid-dotcom/Pokedex)  
+### 🔥 [Pokédex WebApp](https://github.com/SidTheKid-dotcom/IEEE-Hackathon)  
 📸 A Pokédex web app where users can view, level up, chat with, and identify Pokémon by snapping a picture. 
 ⚙️ **Tech Stack:** React, TypeScript 
 
