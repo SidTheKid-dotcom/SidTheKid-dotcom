@@ -23,22 +23,30 @@
 ⚙️ **Tech Stack:** Python, Hugging Face Transformers, PyTorch, Pinecone  
 
 ### 📈 [Customer Churn Analysis](https://github.com/SidTheKid-dotcom/IITG-Case-Com)  
-📈 ML pipeline for analyzing customer churn patterns.  
+📈 ML pipeline for analyzing customer churn patterns for Blinkit.  
 ⚙️ **Tech Stack:** Python, Pandas, Scikit-Learn, Streamlit  
 🔗 [Live Demo](https://iitg-case-com.streamlit.app/)  
+
+
+### 🔥 [Pokédex WebApp](https://github.com/SidTheKid-dotcom/Pokedex)  
+📸 A Pokédex web app where users can view, level up, chat with, and identify Pokémon by snapping a picture. 
+⚙️ **Tech Stack:** React, TypeScript 
+
+### 🌍 [Oasis - Social Network Platform](https://github.com/SidTheKid-dotcom/oasis-deploy-test)  
+📲 A social networking platform where users can share text, images and videos with support for various communities and topics.
+⚙️ **Tech Stack:** Next.js, Vercel  
+🔗 [Live Demo](https://oasissocial.in/)  
+
+
+### 🛠 [Java-Redis: A Mini Redis Implementation](https://github.com/SidTheKid-dotcom/Java-Redis)  
+⚡ A Redis-like in-memory key-value store with multi-client Pub/Sub messaging.  
+⚙️ **Tech Stack:** Java, Multithreading, Docker  
+
 
 ### 🍽️ [ProRestro – POS System](https://github.com/SidTheKid-dotcom/FE-PBL)  
 💳 Full-stack POS system for seamless food ordering & management.  
 ⚙️ **Tech Stack:** React.js, Node.js, MongoDB, Cloudinary, Razorpay SDK  
 
-### 🌍 [Oasis - Social Network Platform](https://github.com/SidTheKid-dotcom/oasis-deploy-test)  
-📲 A social networking platform with post creation, user profiles, and infinite scrolling feeds.  
-⚙️ **Tech Stack:** Next.js, Vercel  
-🔗 [Live Demo](https://oasissocial.in/)  
-
-### 🛠 [Java-Redis: A Mini Redis Implementation](https://github.com/SidTheKid-dotcom/Java-Redis)  
-⚡ A Redis-like in-memory key-value store with multi-client Pub/Sub messaging.  
-⚙️ **Tech Stack:** Java, Multithreading, Docker  
 
 ---
 
