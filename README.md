@@ -8,9 +8,10 @@ I build AI agents and the evals that prove they work.
 
 #### Selected work
 
-- [**MercuryAI**](https://github.com/SidTheKid-dotcom/Mercury_AIQuest): ask questions across a company's docs, code and wikis. 1st place, IIT Bombay TechFest AI Quest 2024. ([RAG service](https://github.com/SidTheKid-dotcom/AI-RAG-Service))
+- [**MercuryAI**](https://github.com/SidTheKid-dotcom/Mercury_AIQuest): ask questions across a company's docs, code and wikis. 1st place, IIT Bombay TechFest AI Quest 2024.
 - [**intercom-web-agent**](https://github.com/SidTheKid-dotcom/intercom-web-agent): a Chrome side-panel agent that answers questions about any website with sources, acts on the page and talks back.
-- [**wemakedevs-env-hacks-2026**](https://github.com/SidTheKid-dotcom/wemakedevs-env-hacks-2026): reads Pune builders' waste promises from public environmental-clearance minutes, on AWS Bedrock, Step Functions and Textract.
+- [**VACHAN**](https://github.com/SidTheKid-dotcom/wemakedevs-env-hacks-2026): helps Pune get wet waste processed at source. Large housing projects promised the government in writing to process their own wet waste. VACHAN finds each promise in 1,000+ public PDFs (735 tonnes a day across 1,214 projects), shows residents and ward officers the exact page, and drafts a letter asking for the plant to run. Built on AWS Bedrock, Step Functions and Textract.
+- [**Urban Eye AI**](https://github.com/urban-eye-ai): city cameras that spot traffic jams, crowds and overflowing garbage, then phone the right team. I built the [live-feed dashboard](https://github.com/urban-eye-ai/Frontend) and most of the [detection hub](https://github.com/urban-eye-ai/Hub-Backend): YOLO models, RabbitMQ alerts and Twilio calls. 2nd place, Cummins IndoVateAI 2025.
 - [**az-ml-2026**](https://github.com/SidTheKid-dotcom/az-ml-2026): entity resolution for the Amazon ML Challenge 2026, with experiments run by coding agents under my direction.
 - [**Oasis**](https://github.com/SidTheKid-dotcom/oasis-deploy-test): a campus social network for PICT students, with 1,200+ users.
 - [**Steal or Share**](https://github.com/SidTheKid-dotcom/EDC-Share-Steal): a real-time Prisoner's Dilemma game run live for 200+ players, with WebSockets, Redis rate limiting and Docker CI/CD on AWS.
