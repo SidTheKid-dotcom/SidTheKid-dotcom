@@ -13,6 +13,7 @@ I build AI agents and the evals that prove they work.
 - [**wemakedevs-env-hacks-2026**](https://github.com/SidTheKid-dotcom/wemakedevs-env-hacks-2026): reads Pune builders' waste promises from public environmental-clearance minutes, on AWS Bedrock, Step Functions and Textract.
 - [**az-ml-2026**](https://github.com/SidTheKid-dotcom/az-ml-2026): entity resolution for the Amazon ML Challenge 2026, with experiments run by coding agents under my direction.
 - [**Oasis**](https://github.com/SidTheKid-dotcom/oasis-deploy-test): a campus social network for PICT students, with 1,200+ users.
+- [**Steal or Share**](https://github.com/SidTheKid-dotcom/EDC-Share-Steal): a real-time Prisoner's Dilemma game run live for 200+ players, with WebSockets, Redis rate limiting and Docker CI/CD on AWS.
 - [**HashGrid-DHT**](https://github.com/SidTheKid-dotcom/HashGrid-DHT): my attempt at building Kademlia, a distributed hash table, in Java.
 
 #### Writing
