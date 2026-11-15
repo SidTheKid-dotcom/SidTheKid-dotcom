@@ -2,7 +2,7 @@
 
 I build AI agents and the evals that prove they work.
 
-**Now:** building [Mirage](https://trymirage.app), a Chrome extension that edits any website from plain English ([Chrome Web Store](https://chromewebstore.google.com/detail/mirage%E1%B5%87%E1%B5%89%E1%B5%97%E1%B5%83/lgplollhdmbpnhhkmkckpghljacakhnb)). Final-year Computer Engineering at PICT, Pune.
+**Now:** building [Mirage](https://www.trymirage.app), a Chrome extension that edits any website from plain English ([Chrome Web Store](https://chromewebstore.google.com/detail/mirage%E1%B5%87%E1%B5%89%E1%B5%97%E1%B5%83/lgplollhdmbpnhhkmkckpghljacakhnb)). Final-year Computer Engineering at PICT, Pune.
 
 **Before:** [Froncort.AI](https://www.froncort.ai), intern → lead engineer → product manager (2025–2026). Regulatory documentation AI for drug and device submissions, and [AI NETRA](https://www.linkedin.com/posts/froncortai_aiabrnetra-precisionpublichealth-tb-activity-7429159194530017280-nK0J), TB outbreak prediction with FIND, supported by Google.org.
 
